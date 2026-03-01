@@ -1,5 +1,7 @@
-<p>the init file plain markdown</p>
+
+this is link
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MTM1MTg0M119
+eyJoaXN0b3J5IjpbMTE0MjYzNzIwLDIwNDEzNTE4NDNdfQ==
 -->
